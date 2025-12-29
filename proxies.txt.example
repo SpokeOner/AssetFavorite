@@ -1,0 +1,11 @@
+# Add your proxies here (one per line)
+# Supported formats:
+# http://proxy:port
+# https://proxy:port
+# socks5://proxy:port
+# socks4://proxy:port
+#
+# Example:
+# http://127.0.0.1:8080
+# socks5://proxy.example.com:1080
+

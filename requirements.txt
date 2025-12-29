@@ -1,0 +1,4 @@
+curl-cffi>=0.5.10
+cryptography>=41.0.0
+colorama>=0.4.6
+
