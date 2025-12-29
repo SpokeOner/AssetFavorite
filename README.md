@@ -21,7 +21,7 @@ A Python tool for favoriting Roblox assets using authentication cookies with mul
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/spokeoner/AssetFavorite.git
+git clone https://github.com/SpokeOner/AssetFavorite.git
 cd AssetFavorite
 ```
 
@@ -78,7 +78,7 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ## Author
 
-[SpokeOner](https://github.com/spokeoner)
+[SpokeOner](https://github.com/SpokeOner)
 
 ## Disclaimer
 
